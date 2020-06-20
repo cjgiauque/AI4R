@@ -33,4 +33,4 @@ def sense(p, Z):
         q[i] = q[i] / s
     return(q)
 
-print(s, Z)
+print(sense(p, Z))

@@ -1,5 +1,11 @@
-# Normalize the probabilities by dividing each by 0.36 and then confirm the sum equals one."
+# Now, normalize the probabilities by dividing each by 0.36 and then confirm the sum equals one."
 # p(Xi|Z) = "Posterior Distribution of place Xi given Z"
+#
+# colors = [G,R,R,G,G]
+# R = 0.6
+# G = 0.2
+#
+# ----------------------------------------------------------------------
 
 R = 0.6
 G = 0.2

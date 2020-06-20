@@ -1,8 +1,14 @@
+# Modify the code so you get the sum of all of the previously calculated probabilities.
+#
+# p = [0.2, 0.2, 0.2, 0.2, 0.2]
+# pHit = 0.6
+# pMiss = 0.2
+#
+# ----------------------------------------------------------------------
+
 p = [0.2, 0.2, 0.2, 0.2, 0.2]
 pHit = 0.6
 pMiss = 0.2
-
-# Modify the code so you get the sum of all of the previously calculated probabilities
 
 precision = [pMiss,pHit,pHit,pMiss,pMiss]
 p2 = []

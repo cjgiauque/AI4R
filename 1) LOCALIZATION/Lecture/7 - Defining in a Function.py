@@ -1,3 +1,13 @@
+# Normalize the function to take into account the weight, depending if it hit or not.
+#
+# p = [0.2, 0.2, 0.2, 0.2, 0.2]
+# world = ['green', 'red', 'red', 'green', 'green']
+# Z = 'red'
+# pHit = 0.6
+# pMiss = 0.2
+#
+# ----------------------------------------------------------------------
+
 p = [0.2, 0.2, 0.2, 0.2, 0.2]
 world = ['green', 'red', 'red', 'green', 'green']
 Z = 'red'

@@ -1,4 +1,10 @@
 # What's the sum of all of the values...confirm that it's not valid cause it doesn't equal one."
+#
+# colors = [G,R,R,G,G]
+# R = 0.6
+# G = 0.2
+#
+# ----------------------------------------------------------------------
 
 R = 0.6
 G = 0.2
